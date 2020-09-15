@@ -21,7 +21,12 @@ _Responsive and cross-browser coding_;
 **GitHub systems:** _GitHub, GitLab, BitBucket_;
 
 **IDE:** _VS Code, WebStorm_.
-#### 5. - 
+#### 5.
+```
+function squareDigits(num){
+return num.toString().split('').map((el) => el * el).join('') * 1;
+}
+``` 
 #### 6. -
 #### 7. Education:
 * _(09/2020 - 02/2021)_ Rolling Scopes School: Frontend-development courses;
