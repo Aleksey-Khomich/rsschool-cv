@@ -21,7 +21,7 @@ _Responsive and cross-browser coding_;
 **GitHub systems:** _GitHub, GitLab, BitBucket_;
 
 **IDE:** _VS Code, WebStorm_.
-#### 5. Some code
+#### 5. Some Code
 ```
 function squareDigits(num){
 return num.toString().split('').map((el) => el * el).join('') * 1;
