@@ -15,7 +15,12 @@
             border-radius: 50%;
             background: url('/images/IMG_0958.jpg') center no-repeat;
             background-size: cover;
-            margin-top: 100px;
+            margin: 100px 0 70px;
+        }
+        .block_info_left {
+            &_about {
+               margin-bottom: 80px;
+            }
         }
     }
     &_section_right {
@@ -38,6 +43,12 @@
                 margin-top: 20px;
                 font-size: 25px;
                 color: white;
+            }
+        }
+        .block_info_right {
+            padding: 35px 50px 60px 25px;
+            &_about {
+                margin-bottom: 100px;
             }
         }
     }
